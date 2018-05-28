@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1ae2e5cf94d057e4c9a3e9b460a91695
+timeCreated: 1513929266
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dear Santa
+  fontNames:
+  - Dear Santa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
