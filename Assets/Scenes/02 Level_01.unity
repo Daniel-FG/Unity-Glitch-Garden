@@ -829,7 +829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1077fcd6b501aa941839665d794f4f59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelDuration: 30
+  levelDuration: 300
   levelManager: {fileID: 114425803302772894, guid: 9a2c53b7eaa35114980ad6b3b6460a60,
     type: 2}
 --- !u!114 &1849750603

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class GameTimer : MonoBehaviour
 {
-    public float levelDuration = 30;
+    public float levelDuration = 300;
     public LevelManager levelManager;
 
     private Slider slider;
